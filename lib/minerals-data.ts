@@ -167,8 +167,8 @@ export const minerals: Mineral[] = [
     density: "3,3 г/см³",
     description:
       "Астрофиллит образует тонкие звездчатые сростки золотисто-бронзовых пластинчатых кристаллов, характерные для щелочных пегматитов. Название происходит от греч. «astron» — звезда и «phyllon» — лист, из-за характерной звездчатой отдельности агрегатов.",
-    specimenImage: "/specimens/astrofillit.jpg",
-    specimenImagePlaceholder: "/specimens/astrofillit.svg",
+    specimenImage: "/specimens/astrofillit.png",
+    specimenImagePlaceholder: "/specimens/astrofillit.png",
     structure: astrofillitStructure,
     createdAt: NOW,
     updatedAt: NOW
@@ -185,8 +185,8 @@ export const minerals: Mineral[] = [
     occurrenceNote: "В пегматите",
     description:
       "Лампрофиллит — титаносиликат группы астрофиллита, встречающийся в виде удлинённых пластинчатых кристаллов янтарного цвета в нефелин-сиенитовых пегматитах.",
-    specimenImage: "/specimens/lamprofillit.jpg",
-    specimenImagePlaceholder: "/specimens/lamprofillit.svg",
+    specimenImage: "/specimens/lamprofillit.png",
+    specimenImagePlaceholder: "/specimens/lamprofillit.png",
     structure: lamprofillitStructure,
     createdAt: NOW,
     updatedAt: NOW
@@ -221,8 +221,8 @@ export const minerals: Mineral[] = [
     color: "Зелёный",
     description:
       "Берилл — циклосиликат бериллия и алюминия, кристаллизующийся в виде шестигранных призм. Зелёная окраска этой разновидности связана с примесью хрома или ванадия.",
-    specimenImage: "/specimens/beryll-green.jpg",
-    specimenImagePlaceholder: "/specimens/beryll-green.svg",
+    specimenImage: "/specimens/beryll-green.png",
+    specimenImagePlaceholder: "/specimens/beryll-green.png",
     structure: berylStructure("beryl-green"),
     needsConfirmation:
       "Оригинальная этикетка образца содержит формулировку «Хризоберилл зелёный БЕРИЛЛ». Хризоберилл (BeAl₂O₄, ромбическая сингония) и берилл (Be₃Al₂Si₆O₁₈, гексагональная сингония) — разные минералы. Поскольку этикетка указывает «Гекс. синг.», для прототипа принят берилл. Требует подтверждения кафедрой геологии.",
@@ -240,8 +240,8 @@ export const minerals: Mineral[] = [
     density: "2,63–2,92 г/см³",
     color: "Голубой",
     description: "Голубая разновидность берилла. Окраска обусловлена примесью двухвалентного и трёхвалентного железа.",
-    specimenImage: "/specimens/aquamarine.jpg",
-    specimenImagePlaceholder: "/specimens/aquamarine.svg",
+    specimenImage: "/specimens/aquamarine.png",
+    specimenImagePlaceholder: "/specimens/aquamarine.png",
     structure: berylStructure("aquamarine"),
     createdAt: NOW,
     updatedAt: NOW
